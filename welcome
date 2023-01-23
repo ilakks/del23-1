@@ -1,0 +1,4 @@
+org = "Del"
+batch = "class A"
+year = "2023"
+print("Hi")
